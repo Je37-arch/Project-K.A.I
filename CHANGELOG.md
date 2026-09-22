@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+- Added a conservative diode template router with explicit clarify/abstain decisions and seven routing tests.
+- Expanded the separately stored private review pack to eleven draft cards; recorded development-only routing outcomes.
+
 - Added a retrieval-only CLI with pack/source validation and explicit draft preview.
 - Added six retrieval tests, a fictional fixture and a twelve-case smoke-run report documenting current failures.
 
