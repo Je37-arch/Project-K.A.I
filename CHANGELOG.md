@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+- Added a development observation runner, four validation tests and a 40-case private development draft.
+- Recorded no explanation previews on the 28 new questions (26 clarifications, two abstentions; no explanation previews).
+- Selected two first-party model candidates for feasibility with published revisions/checksums; no model run yet.
+
 - Added a conservative diode template router with explicit clarify/abstain decisions and seven routing tests.
 - Expanded the separately stored private review pack to eleven draft cards; recorded development-only routing outcomes.
 

@@ -3,7 +3,7 @@
 | ID | Decision | Status |
 | --- | --- | --- |
 | D01 | Target hardware and OS | M2 / 8 GB / Sonoma 14.5; user-reported test target |
-| D02 | Model and runtime | Stage 1 measurements required |
+| D02 | Model and runtime | Two Qwen3 Q8_0 feasibility candidates proposed; runtime build and measurements pending |
 | D03 | Course preparation location and remote processing | Open |
 | D04 | Book and course-pack distribution rights | Resolve before distribution |
 | D05 | Guided circuit workbench versus unrestricted wiring | Guided initial scope proposed |
@@ -15,3 +15,5 @@
 Record substantial decisions with context, alternatives, evidence, outcome and consequences. A proposal is not an accepted architecture decision.
 
 Evidence: [first-unit source map](../sources/diode-unit.md) and [input register](../sources/register.json).
+
+D02 candidate evidence: [local-model plan](../experiments/local-model-plan.md).
