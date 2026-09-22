@@ -46,3 +46,7 @@ Lowercase alphanumeric tokens, remove a small fixed stop-word set, and require a
 Statuses: `clarification_needed` for an empty/non-informative token set; `no_eligible_cards` if review filtering removes every card; `no_supported_match` if no card clears the overlap rule; `evidence_candidates` otherwise. The last status only means related text. One-word queries can be missed. Shared terms can retrieve irrelevant cards. Missing circuit values, unsupported topics, false premises and source conflicts are not reliably recognised. Do not treat candidate retrieval as a final answer or a passed boundary test.
 
 No course switching, follow-up state, modes, OCR, semantic retrieval, numerical tools or generated responses yet. See the [recorded experiment](../../docs/experiments/retrieval-baseline-001.md) for observed gaps. Removing this standalone tool and its fixture rolls back the experiment without affecting ingestion.
+
+## Separate structured condition
+
+The [template-routed guide](GUIDE.md) adds explicit decision rules and card selection alongside this unchanged lexical baseline. It does not establish general language understanding.

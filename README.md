@@ -28,7 +28,7 @@ Local answering means generating **new answers offline after installation**, wit
 
 The textbook, directional syllabus guide, two assignments and target Mac specifications have been received. Source versions and hardware are in [the register](docs/sources/register.json). Faculty syllabus confirmation remains pending.
 
-Next: complete and review private evidence cards, add answer-support checks, then measure local model configurations on the target Mac. See [the retrieval baseline](tools/retrieval/README.md) and [observed limitations](docs/experiments/retrieval-baseline-001.md). No student installation is available. The developer extraction utility has [reproduction instructions](tools/ingestion/README.md).
+Eleven private draft cards and a narrow [template-routed guide](tools/retrieval/GUIDE.md) are now prepared. Next: subject review, broader evaluation preparation and local-model feasibility on the target Mac. See [the retrieval baseline](tools/retrieval/README.md) and [observed limitations](docs/experiments/retrieval-baseline-001.md). No student installation is available. The developer extraction utility has [reproduction instructions](tools/ingestion/README.md).
 
 ## Public repository boundaries
 
