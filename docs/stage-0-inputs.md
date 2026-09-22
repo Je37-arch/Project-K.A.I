@@ -20,3 +20,7 @@ A source register with extraction quality, a unit coverage map, a baseline hardw
 ## Complete when
 
 The first unit and its sources are identified, hardware is documented and Stage 1 can be run without guessing about inputs.
+
+## Intake update — 22 September 2026
+
+Four PDFs and hardware received; see [source register](sources/register.json). Diode foundations selected in [the coverage map](sources/diode-unit.md). Inputs are sufficient for an extraction trial. The guide is directional, so current faculty syllabus confirmation and content distribution rights remain open. Development prompts are drafts, not reviewed benchmark keys.
