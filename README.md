@@ -4,7 +4,7 @@ The first application within **Project K.A.I**: a local, course-grounded Study G
 
 ## Status
 
-Repository foundation only. No application, model runtime, simulations or benchmark results have been implemented yet. We are gathering Stage 0 inputs before Stage 1 feasibility work.
+Stage 1 has begun with a bounded diode source map, extraction utility and recorded extraction trial. No student application, model runtime, simulations or Mac benchmark results yet. See [the first unit](docs/sources/diode-unit.md) and [trial evidence](docs/sources/extraction-trial.md).
 
 ## What we are building
 
@@ -24,13 +24,11 @@ Local answering means generating **new answers offline after installation**, wit
 - [Decision register](docs/decisions/README.md)
 - [Contributing](CONTRIBUTING.md)
 
-## Next inputs
+## Current inputs and next work
 
-1. Analog Electronics textbook and syllabus, supplied privately.
-2. Target Mac chip/processor, RAM, macOS version and approximate free storage; no serial number.
-3. Optional real assignment or viva questions.
+The textbook, directional syllabus guide, two assignments and target Mac specifications have been received. Source versions and hardware are in [the register](docs/sources/register.json). Faculty syllabus confirmation remains pending.
 
-Model, runtime, framework, minimum hardware and hosting are not selected. There is no install or run command yet.
+Next: review private evidence cards, build the retrieval baseline, then measure local model configurations on the target Mac. No student installation is available. The developer extraction utility has [reproduction instructions](tools/ingestion/README.md).
 
 ## Public repository boundaries
 
