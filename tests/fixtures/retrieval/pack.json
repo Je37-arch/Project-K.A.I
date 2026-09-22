@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "pack_id": "synthetic-only",
+  "version": "1",
+  "course_id": "fictional",
+  "unit_id": "controls",
+  "sources": {
+    "fixture": {
+      "sha256": "2b08c573d56f73452ed9906f4bd5a1ff75570c8506675ef09c94ee1fc1f4fd86",
+      "page_count": 1,
+      "credit": "Project K.A.I original fictional software-test fixture. Not a course source."
+    }
+  },
+  "cards": [
+    {
+      "id": "amber",
+      "title": "Amber switch",
+      "body": "The amber switch lights the blue lamp.",
+      "tags": [
+        "amber",
+        "switch"
+      ],
+      "conditions": [
+        "Fictional software-test data only."
+      ],
+      "review": {
+        "status": "draft",
+        "checked_by": "test-author",
+        "method": "Authored fictional fixture; no subject approval claimed"
+      },
+      "references": [
+        {
+          "resource_id": "fixture",
+          "source_sha256": "2b08c573d56f73452ed9906f4bd5a1ff75570c8506675ef09c94ee1fc1f4fd86",
+          "pdf_page": 1,
+          "printed_page": "1",
+          "section": "Fictional controls"
+        }
+      ]
+    },
+    {
+      "id": "violet",
+      "title": "Violet dial",
+      "body": "The violet dial controls a green indicator.",
+      "tags": [
+        "violet",
+        "dial"
+      ],
+      "conditions": [
+        "Fictional software-test data only."
+      ],
+      "review": {
+        "status": "draft",
+        "checked_by": "test-author",
+        "method": "Authored fictional fixture; no subject approval claimed"
+      },
+      "references": [
+        {
+          "resource_id": "fixture",
+          "source_sha256": "2b08c573d56f73452ed9906f4bd5a1ff75570c8506675ef09c94ee1fc1f4fd86",
+          "pdf_page": 1,
+          "printed_page": "1",
+          "section": "Fictional controls"
+        }
+      ]
+    }
+  ]
+}

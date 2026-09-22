@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+- Added a retrieval-only CLI with pack/source validation and explicit draft preview.
+- Added six retrieval tests, a fictional fixture and a twelve-case smoke-run report documenting current failures.
+
 - Started Stage 1 with source-version metadata, bounded diode coverage and an extraction report.
 - Added a private-output extraction utility and synthetic validation test.
 - Added 12 original development prompt drafts; no held-out set or model results yet.

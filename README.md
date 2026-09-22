@@ -4,7 +4,7 @@ The first application within **Project K.A.I**: a local, course-grounded Study G
 
 ## Status
 
-Stage 1 has begun with a bounded diode source map, extraction utility and recorded extraction trial. No student application, model runtime, simulations or Mac benchmark results yet. See [the first unit](docs/sources/diode-unit.md) and [trial evidence](docs/sources/extraction-trial.md).
+Stage 1 has begun with a bounded diode source map, extraction utility and recorded extraction trial. An experimental retrieval-only CLI now returns cited evidence cards; it is not a complete answering system. No student application, model runtime, simulations or Mac benchmark results yet. See [the first unit](docs/sources/diode-unit.md) and [trial evidence](docs/sources/extraction-trial.md).
 
 ## What we are building
 
@@ -28,7 +28,7 @@ Local answering means generating **new answers offline after installation**, wit
 
 The textbook, directional syllabus guide, two assignments and target Mac specifications have been received. Source versions and hardware are in [the register](docs/sources/register.json). Faculty syllabus confirmation remains pending.
 
-Next: review private evidence cards, build the retrieval baseline, then measure local model configurations on the target Mac. No student installation is available. The developer extraction utility has [reproduction instructions](tools/ingestion/README.md).
+Next: complete and review private evidence cards, add answer-support checks, then measure local model configurations on the target Mac. See [the retrieval baseline](tools/retrieval/README.md) and [observed limitations](docs/experiments/retrieval-baseline-001.md). No student installation is available. The developer extraction utility has [reproduction instructions](tools/ingestion/README.md).
 
 ## Public repository boundaries
 
