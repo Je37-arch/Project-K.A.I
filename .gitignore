@@ -1,0 +1,42 @@
+# Private inputs and generated data
+/private/
+/data/
+/models/
+/artifacts/
+/outputs/
+/course-packs/
+/evals/private/
+/evals/results/
+*.pdf
+*.docx
+*.gguf
+*.safetensors
+*.onnx
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.sqlite
+*.sqlite3
+*.db
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# Dependencies and builds
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+dist/
+build/
+coverage/
+.pytest_cache/
+.mypy_cache/
+.cache/
+*.log
+.DS_Store
+Thumbs.db
